@@ -13,4 +13,4 @@ setInterval(function (){
         }
         f.innerHTML = s;
     }
-},750);
+},550);
