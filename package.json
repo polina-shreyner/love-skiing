@@ -1,0 +1,20 @@
+{
+  "name": "love-skiing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polly747/love-code.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polly747/love-code/issues"
+  },
+  "homepage": "https://github.com/polly747/love-code#readme"
+}
